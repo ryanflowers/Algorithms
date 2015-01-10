@@ -3,7 +3,7 @@ function Node() {
   this.children = {};
   this.isCompleteWord = false;    
 }
-
+ 
 
 function Trie() {
   var root;
